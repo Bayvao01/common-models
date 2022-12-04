@@ -18,10 +18,9 @@
     <name>common-models</name>
     <description>Maven Project to contain models to be used across different applications</description>
 
+    <!-- KINDLY ADD PROPERTIES INTO PARENT's POM AND USE HERE -->
     <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <!-- INTENTIONALLY KEPT THIS BLANK -->
     </properties>
 
     <repositories>
